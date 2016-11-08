@@ -1,0 +1,29 @@
+form{
+	text-align: center;
+}
+
+a{
+	font-size: 14px;
+
+}
+
+.errors{
+	margin: 10px 0;
+}
+
+@media (min-width: 500px) {
+	.logo{
+		margin: 10px 200px;
+	}
+}
+
+@media (min-width: 993px) {
+	.grid-form{
+		margin: 100px 380px;
+	}
+
+	.logo{
+		margin: 10px 110px;
+	}
+}
+

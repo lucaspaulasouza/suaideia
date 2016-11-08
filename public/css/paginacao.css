@@ -1,0 +1,38 @@
+@media (min-width: 500px) {
+	.pagination{
+		width: 100%;
+	    padding: 10px 150px;
+	}
+}
+@media (min-width: 775px) {
+	.pagination{
+		width: 100%;
+		padding: 10px 285px;
+	}
+}
+
+@media (min-width: 1000px) {
+	.pagination{
+		width: 100%;
+		padding: 10px 400px;
+	}
+}
+
+@media (min-width: 1200px) {
+	.pagination{
+		width: 100%;
+	    padding: 10px 450px;
+	}
+}
+
+.pagination li{
+	float:left;
+	padding: 0 10px;
+	list-style-type: none;
+}
+
+h2{
+	text-align: center;
+    color: #025aa5;
+    margin: 50px 0 0 0;
+}
